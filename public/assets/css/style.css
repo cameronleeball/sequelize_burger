@@ -1,0 +1,45 @@
+body {
+    background-image: url("/assets/img/bbbackground.png");
+    background-attachment: fixed;
+    background-position: center;
+}
+
+.container {
+    background-color: rbga(255,255,255,0);
+}
+
+.jumbotron {
+    background-color: #FFFF00;
+    color:red;
+    border-radius: 5px;
+    border: 10px solid red;
+}
+
+.jumbotron h1 {
+    font-family: 'Baloo Bhaina', cursive;
+    font-size: 150px;
+    color:red;
+}
+
+h2 {
+    font-family: 'Baloo Bhaina', cursive;
+    color:red;
+}
+
+li {
+    font-size: 25px;
+}
+
+.row {
+    max-height: 150px;
+    min-height: 150px;
+}
+
+.blackboard{
+    font-family: 'Reenie Beanie', cursive;
+}
+
+form {
+    font-size: 40px;
+    font-family: 'Reenie Beanie', cursive;
+}

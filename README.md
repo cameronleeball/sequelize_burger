@@ -1,1 +1,1 @@
-# sequelize_burger
+# burger
